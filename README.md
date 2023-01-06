@@ -19,7 +19,7 @@ pandas, numpy, seaborn, matplotlib, sklearn
 
 The classification models including Logistic Regression, Support Vector Machines, Decision Trees, Random Forest, Naive Bayes, and K-Nearest Neighbors Classifiers were used.
 
-![combine_images (4)](https://user-images.githubusercontent.com/118715799/210971140-59bbfeba-31d3-4c4c-bf45-5e4fc866aaaa.jpg)
+![combine_images (4)](https://user-images.githubusercontent.com/118715799/210973045-a094fc44-d8fe-455d-b856-904e53e00646.jpg)
 
 Read the complete Diabetes Classification Model Comparison project in [here](https://github.com/seuwenfei/Diabetes-classification-model-comparison/blob/main/classification-model-comparison.ipynb).
 
