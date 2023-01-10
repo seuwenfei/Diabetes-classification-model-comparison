@@ -23,7 +23,7 @@ The classification models including Logistic Regression, Support Vector Machines
 <img src="https://user-images.githubusercontent.com/118715799/210971140-59bbfeba-31d3-4c4c-bf45-5e4fc866aaaa.jpg" width="830" height="460" />
 </p>
 
-Read the complete Diabetes Classification Model Comparison project in [here](https://github.com/seuwenfei/Diabetes-classification-model-comparison/blob/main/classification-model-comparison.ipynb).
+Read the complete Diabetes Classification Model Comparison project [here](https://github.com/seuwenfei/Diabetes-classification-model-comparison/blob/main/classification-model-comparison.ipynb).
 
 ## Conclusion
 The **Random Forest** model is a better model for determining whether a female patient has diabetes.
